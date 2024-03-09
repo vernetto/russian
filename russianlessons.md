@@ -1,6 +1,6 @@
-Feminin: женский род (zhenskiy rod)
-Maskulin: мужской род (muzhskoy rod)
-Sächlich (Neutrum): средний род (sredniy rod)
+- Feminin: женский род (zhenskiy rod)
+- Maskulin: мужской род (muzhskoy rod) 
+- Sächlich (Neutrum): средний род (sredniy rod)
 
 # именительный падеж: кто? что?  Nominativ
 
